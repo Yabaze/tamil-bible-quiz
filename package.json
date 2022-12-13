@@ -6,8 +6,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "npm run serve",
-    "start": "node ./bin/www"
+    "start": "node index.js"
   },
   "author": "Yabaze T",
   "dependencies": {
